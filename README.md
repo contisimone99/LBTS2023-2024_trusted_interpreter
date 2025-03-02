@@ -119,7 +119,7 @@ let result = eval empty_env false expr
 
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
