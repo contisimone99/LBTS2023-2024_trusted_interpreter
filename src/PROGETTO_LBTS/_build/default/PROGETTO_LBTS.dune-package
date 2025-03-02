@@ -1,0 +1,4 @@
+(lang dune 3.14)
+(name PROGETTO_LBTS)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (PROGETTO_LBTS)))

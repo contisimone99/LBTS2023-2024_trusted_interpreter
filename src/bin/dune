@@ -1,0 +1,4 @@
+(executable
+ (public_name PROGETTO_LBTS)
+ (name main)
+ (libraries PROGETTO_LBTS str))

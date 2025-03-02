@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/PROGETTO_LBTS/META"
+  "_build/install/default/lib/PROGETTO_LBTS/dune-package"
+  "_build/install/default/lib/PROGETTO_LBTS/opam"
+]
+bin: [
+  "_build/install/default/bin/PROGETTO_LBTS"
+]

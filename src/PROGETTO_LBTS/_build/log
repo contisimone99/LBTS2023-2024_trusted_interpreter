@@ -1,0 +1,22 @@
+# dune exec PROGETTO_LBTS
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/alex/.cache/dune/db
+# Workspace root: /home/alex/Desktop/PROGETTO_LBTS
+# Auto-detected concurrency: 4
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" : "/home/alex/Desktop/PROGETTO_LBTS/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_0527af_output
