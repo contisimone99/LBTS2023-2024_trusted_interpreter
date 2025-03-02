@@ -123,4 +123,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-This project was developed as part of [your course/research/etc.] focused on language-based security mechanisms.
+This project was developed as part of Language based Technology for Cybersecurity course focused on language-based security mechanisms.
